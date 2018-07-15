@@ -18,7 +18,7 @@ for j in range(0,7):
 asc_arr = []
 for i in range(0,7):
     asc_arr += lsb_arr[i]
-
+    
 asc_arr_new=""
 for k in asc_arr:
     asc_arr_new+=str(k)
