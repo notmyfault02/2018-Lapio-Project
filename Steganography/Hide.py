@@ -20,6 +20,5 @@ for i in range(0,7):
     c_index+=1
     pixelmop[i, 0]= (r_d[i], g, b)
     
-
 img.save("C:\\Users\\DSM2018\\Desktop\\hahaha.png")
 print("바탕화면 hahaha.png 확인")
